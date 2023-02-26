@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+
+.conteudoCima {
+    display: flex;
+    justify-content: center;
+}
+
+.conteudoBaixo {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.linkCurso {
+    display: flex;
+    justify-content: center;
+}
+
+.botao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.repVideo {
+    display: flex;
+    justify-content: center;
+}
